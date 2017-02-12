@@ -1,1 +1,1 @@
-Blog# LiLiangjuan.github.io
+[This is a blog](blog2)
