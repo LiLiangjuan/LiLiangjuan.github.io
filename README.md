@@ -1,3 +1,3 @@
-[This is a blog](blog2)
+[C并发编程](concurrent-programming-in-c-1)
 
 [aa](new)
