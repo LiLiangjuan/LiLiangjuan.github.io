@@ -8,6 +8,7 @@
 
 另一个需注意的点是, 每次put前, 需要检查要插入的key是否已经存在, 如果已经存在, 只需要更新value和将节点前移到头结点.
 
+```cpp
 #include <memory>
 #include <map>
 #include <iostream>
@@ -114,3 +115,5 @@ int main(int argc, char** argv) {
 
     std::cout << "It works" << std::endl;
 }
+
+```
